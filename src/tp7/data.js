@@ -1,0 +1,1 @@
+export default etudients=[{id:1,nom:"ali",prenom:"smlali"},{id:2,nom:"samira",prenom:"lmalki"}];

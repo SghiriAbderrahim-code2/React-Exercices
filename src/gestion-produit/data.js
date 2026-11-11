@@ -1,0 +1,1 @@
+export const produits=[{id:1,nom:"stylo",prix:15},{id:2,nom:"gomme",prix:5}];

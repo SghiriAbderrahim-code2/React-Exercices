@@ -1,0 +1,1 @@
+export const list_recettes=[{id:1,nom:"za3za3",categorie:"dessert",ingredients:["banan","avoka","loz"]},{id:2,nom:"za3za3",categorie:"dessert",ingredients:["banan","avoka","loz"]},{id:3,nom:"za3za3",categorie:"dessert",ingredients:["banan","avoka","loz"]},{id:4,nom:"za3za3",categorie:"dessert",ingredients:["banan","avoka","loz"]}]
